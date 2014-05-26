@@ -1,0 +1,11 @@
+{
+    "name": "jelmerd/ajax-component",
+    "type": "cakephp-plugin",
+    "description": "A CakePHP Plugin to handle ajax calls easily",
+    "homepage": "http://github.com/JelmerD/AjaxComponent",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.2.8",
+        "composer/installers": "*"
+    }
+}
