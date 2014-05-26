@@ -5,6 +5,7 @@ app::uses('Component', 'Controller/Component');
  * Class AjaxComponent
  *
  * @author Jelmer Dröge
+ * @license MIT
  */
 class AjaxComponent extends Component {
 
